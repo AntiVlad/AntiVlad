@@ -3,10 +3,10 @@
    
 ###  <p align="center"><img src="/images/Developer.gif" alt="developer gif"  height="45px" align="center"></p>  <p align="center">About Me:</p>
 <p align="center">
-  Hi, I'm Vladimir, Software Development and CyberSecurity Enthusiast from NIGERIA
+  Hi, I'm Vladimir, Software Development and Ethical Hacking Enthusiast from NIGERIA
   <br>
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love Writing code, Hardware and solving problems 😊
   <br> 
   <br>
   📫 How to reach me 👇
